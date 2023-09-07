@@ -9,9 +9,9 @@ This simple Chrome extension allows you to track and manage leads directly from 
   
 -Add leads with URLs or text input.
 
--Import the currently active tab as a lead.
+-Import the currently active tab as a lead.                                       ![image](https://github.com/gulammustafa41/LeadTracker-Extension/assets/113841536/5541448b-93a2-4069-8a46-e74813d2c984)
 
--View and access your leads with clickable links.
+-View and access your leads with clickable links.     
 
 -Clear all leads with a double-click action.
 
